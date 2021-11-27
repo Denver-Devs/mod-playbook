@@ -52,7 +52,7 @@ const config = {
         items: [
           {
             type: "doc",
-            docId: "init",
+            docId: "bannable-offenses",
             position: "left",
             label: "Docs",
           },
